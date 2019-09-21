@@ -1,0 +1,23 @@
+#login{
+	background-image: url("../img/xadrez.jpg");
+	background-repeat: no-repeat;
+	height: 100vh;
+	width: 100vw;
+}
+
+#formulario{
+	position: relative;
+	background-color: white;
+	width: 50vw;
+	height: 34vw;
+	padding: 5%;
+	left: 25%;
+	top:25%;
+	border-radius: 3%;
+	box-shadow: 3px 1px 3px black;
+}
+
+form{
+	position: relative;
+	height: 100%;
+}
